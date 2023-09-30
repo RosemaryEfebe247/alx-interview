@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+""" Pascal Triangle function
+    The function iterates each row and
+    add items from previous rows to form the new row
+"""
+
+
 def pascal_triangle(n):
     """ Function to develop pascal triangle"""
     triangle = []
